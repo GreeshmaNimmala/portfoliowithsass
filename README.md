@@ -1,3 +1,3 @@
-# portfoliowithsass
+# Portfolio with SASS
 Basics Of Sass
-Learning Sass and made a Simple Portfolio with a Refernce in Online using HTML,JS,SASS
+In the process of Learning Sass, created a Simple Portfolio with a Refernce in Online using HTML,JS,SASS
