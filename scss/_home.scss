@@ -1,0 +1,25 @@
+.user{
+    height: 100%;
+    padding-top: 25%;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    background: linear-gradient( to right,rgba($primary-color,0.9),rgba($primary-color,0.3)),
+    url('../dist/img/akhil.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    &_name{
+        font-size: 4rem;
+        padding-bottom: 2rem;
+        margin-bottom:1rem;
+        border-bottom: 2px solid set-text-color($primary-color);
+
+        &_lastname{
+            color: $secondary-color;
+            font-weight: 500;
+
+        }
+    }
+}
